@@ -15,7 +15,3 @@ class Location {
     }
   }
 }
-
-//int condition = decodedData['weather'][0]['id'];
-//double temperature = decodedData['main']['temp'];
-//String cityName = decodedData['name'];
